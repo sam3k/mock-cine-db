@@ -1,0 +1,56 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "movies": [
+    {
+      "id": 1,
+      "poster": "https://cdn.cinematerial.com/p/500x/whzynhnm/john-wick-chapter-3-parabellum-theatrical-movie-poster-md.jpg?v=1553186883",
+      "title": "John Wick: Chapter 3 - Parabellum"
+    },
+    {
+      "id": 2,
+      "poster": "https://cdn.cinematerial.com/p/500x/nvzxjkhg/spider-man-across-the-spider-verse-movie-poster-md.jpg?v=1682534125",
+      "title": "Spider-Man: Across the Spider-Verse"
+    },
+    {
+      "id": 3,
+      "poster": "https://media-cache.cinematerial.com/p/500x/l4xxs5e7/wonka-movie-poster.jpg?v=1699989868",
+      "title": "Wonka"
+    },
+    {
+      "id": 4,
+      "poster": "https://media-cache.cinematerial.com/p/500x/ogfc8aba/fear-and-loathing-in-las-vegas-movie-poster.jpg?v=1704645999",
+      "title": "Fear And Loathing In Las Vegas"
+    },
+    {
+      "id": 5,
+      "poster": "https://media-cache.cinematerial.com/p/500x/zv8lstqd/titanic-movie-poster.jpg?v=1704644889",
+      "title": "Titanic"
+    },
+    {
+      "id": 6,
+      "poster": "https://cdn.cinematerial.com/p/500x/0whpscuv/hellboy-movie-poster-md.jpg?v=1553359412",
+      "title": "Hellboy"
+    },
+    {
+      "id": 7,
+      "poster": "https://cdn.cinematerial.com/p/500x/0wsudnan/the-highwaymen-movie-poster-md.jpg?v=1550679104",
+      "title": "The Highwaymen"
+    },
+    {
+      "id": 8,
+      "poster": "https://cdn.cinematerial.com/p/500x/u9juzjtv/joker-movie-poster-sm.jpg?v=1567014206",
+      "title": "Joker"
+    }
+  ]
+}
